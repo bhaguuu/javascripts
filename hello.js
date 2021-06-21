@@ -163,7 +163,7 @@ console.log(any.toString())
  
 //  console.log(student.class)
  
-let age =23
+let age =36
 if(!age){ 
     console.log("eligable")
 } else{
